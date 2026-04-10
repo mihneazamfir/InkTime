@@ -1,0 +1,46 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Fusion 360 / EAGLE temporary & backup files (Electronics)
+*.s#?
+*.b#?
+*.b$?
+*.s$?
+*.l#?
+*.l$?
+*.p#?
+*.p$?
+*.erc
+*.drc
+*.bak
+*.tmp
+*.lck
+
+# 3D Mechanical / CAD temporary files
+*.STEP.bak
+*.STL.bak
+
+# Software / Firmware (in case future code is added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+.venv/
+env/
+.env
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.swp
+*~
